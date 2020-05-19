@@ -14,4 +14,4 @@ Application of several machine learning techniques in a [Kaggle's Dataset of cre
 ---
 
 ![NCA with 2 Components and KNeighbors Classifier](images/NCA__2.png)
-*PS: That is **not the best**(although pretty good) AUC that i've got, just the best after reduction to 2 components*
+*PS: That is **not the best**(although pretty good) AUC that i've got, just the best after reduction to 2 components on the Test Set*
