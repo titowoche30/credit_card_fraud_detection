@@ -13,5 +13,5 @@ Application of several machine learning techniques in a [Kaggle's Dataset of cre
 
 ---
 
-![NCA with 2 Components and KNeighbors Classifier](https://github.com/titowoche30/credit_card_fraud_detection/blob/master/images/NCA_2.png?raw=true)
+![NCA with 2 Components and KNeighbors Classifier](images/NCA_2.png)
 *PS: That is **not the best**(although pretty good) AUC that i've got, just the best after reduction to 2 components*
